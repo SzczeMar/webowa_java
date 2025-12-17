@@ -30,6 +30,7 @@ public class Root {
 		<li><a href="osoby/ala">Ala</a></li>
 		<li><a href="osoby/marcin">Marcin</a></li>
 		<li><a href="osoby/zuza">Zuza</a></li>
+		<li><a href="osoby/stefan">Stefan</li>
 		</ul>
 		</body>
 		</html>
