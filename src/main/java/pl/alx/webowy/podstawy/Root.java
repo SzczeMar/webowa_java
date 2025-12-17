@@ -29,6 +29,7 @@ public class Root {
 		<ul>
 		<li><a href="osoby/ala">Ala</a></li>
 		<li><a href="osoby/marcin">Marcin</a></li>
+		<li><a href="osoby/zuza">Zuza</a></li>
 		</ul>
 		</body>
 		</html>
